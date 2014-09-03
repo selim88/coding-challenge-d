@@ -3,6 +3,7 @@ import concurrent.futures
 From app import BusbudBanner
 From app import images
 
+
 #function parallel_image_processing() gets images from images() and process them with different offered functions
 
 def parallel_image_processing :
